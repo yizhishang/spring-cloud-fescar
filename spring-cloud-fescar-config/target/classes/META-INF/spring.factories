@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.alibaba.spring.cloud.fescar.config.FescarAutoConfiguration
